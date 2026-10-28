@@ -15,9 +15,10 @@
     "IsTestingExclusive": false,
     "AcceptsFeedback": true,
     "DalamudApiLevel": 15,
-    "RepoUrl": "https://github.com/Raindeer23/GatherBuddyReborn",
+    "RepoUrl": "https://github.com/raindeer21/GatherBuddyReborn",
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
-    "DownloadLinkInstall": "https://github.com/Raindeer23/GatherBuddyReborn/releases/download/7.5.0.15/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Raindeer23/GatherBuddyReborn/releases/download/7.5.0.15/latest.zip"
+    "DownloadLinkInstall": "https://github.com/raindeer21/GatherBuddyReborn/releases/download/7.5.0.15/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/raindeer21/GatherBuddyReborn/releases/download/7.5.0.15/latest.zip",
+    "DownloadLinkTesting": "https://github.com/raindeer21/GatherBuddyReborn/releases/download/7.5.0.15/latest.zip"
   }
 ]

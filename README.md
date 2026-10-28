@@ -1,3 +1,17 @@
+# GatherBuddy Reborn · 国服分支
+
+本仓库 fork 自 [Raindeer23/GatherBuddyReborn](https://github.com/Raindeer23/GatherBuddyReborn)，保留原作者、许可证和国服适配。当前发布的 `7.5.0.15` 安装包与该上游版本逐字节一致；本次仅调整仓库和插件列表地址，不改动插件功能。
+
+使用与「键影随行」共用的插件库地址：
+
+```text
+https://raw.githubusercontent.com/raindeer21/MyDalamudPlugins/master/pluginmaster.json
+```
+
+自动采集需要另外安装并启用 **vnavmesh**。完整上游说明如下。
+
+---
+
 # [![](https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png)](https://github.com/FFXIV-CombatReborn/GatherBuddyReborn)
 
 **GatherBuddyReborn**
@@ -22,7 +36,7 @@ GatherBuddyReborn is a community-made fork of the original GatherBuddy plugin fo
 - **Skip below the DevPlugins section to the Custom Plugin Repositories section.**
 - Copy and paste the repo.json link into the first free text input field.
 ```
-https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json
+https://raw.githubusercontent.com/raindeer21/MyDalamudPlugins/master/pluginmaster.json
 ```
 - Click on the + button and make sure the checkmark beside the new field is set afterwards.
 - **Click on the Save-icon in the bottom right.**
